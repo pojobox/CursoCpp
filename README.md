@@ -43,3 +43,5 @@ Si tenés dudas o sugerencias:
 
 ### 🌟 ¡Gracias por aprender conmigo!
 Espero que este curso sea una guía útil en tu camino para dominar C++. 💻✨
+
+**Te saluda tu instructor Jonathan!**
