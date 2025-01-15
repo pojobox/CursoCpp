@@ -7,6 +7,8 @@
 ### 📚 Contenido del Curso
 El curso está estructurado en clases, cada una diseñada para cubrir conceptos clave de C++ de forma progresiva.
 
+### Modulo Básico.
+
 ### 🗂 Clases con Código Incluido
 - **Clase 01: Instalación del IDE y Hola Mundo**
   - Descarga e instalación de Visual Studio 2022 Community Edition.
