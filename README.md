@@ -15,7 +15,7 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Configuración de lenguaje C++ 20 para aproveechar las caracteristicas en un futuro.
   - Creación de tu primer archivo CPP.
   - Introducción a la estructura básica de C++.
-  - 
+  
 - **Clase 02: Tipos de datos**
   - Impresion en pantalla de los diferentes tipos de datos
   - Rango de valores
