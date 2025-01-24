@@ -20,14 +20,13 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - Impresion en pantalla de los diferentes tipos de datos
   - Rango de valores
   - signed vs unsigned
-  - Utilización de la función sizeof
-
+  - Utilización de la función sizeof.
 
   - **Clase 03: Operadores**
     - Aritméticos
     - Bit a Bit
-    - Utilización de #include <bitset> para visualizar en consola numeros en binario.
-    - pequeño avance de un condicional if
+    - Utilización de #include <bitset> para visualizar en consola numeros en binario
+    - pequeño avance de un condicional if.
  
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Viernes por la tarde, No te la pierdas!!*
