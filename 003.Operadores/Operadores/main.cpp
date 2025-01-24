@@ -91,12 +91,12 @@ int main()
 	std::cout << "(~a) : " << (~5) << std::endl;
 	std::cout << "(~a) : " << std::bitset<8>(-6) << std::endl;
 
-	//<< -> a << b
+	//desplazamiento a la izquierda << -> a << b
 	//5 << 1 
 
 	std::cout << "(5 << 1) : " << (5 << 1) << std::endl;
 
-	//>> -> a >> b
+	//desplazamiento a la derecha >> -> a >> b
 	//10 >> 1 
 
 	std::cout << "(10 >> 1) : " << (10 >> 1) << std::endl;
