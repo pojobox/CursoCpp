@@ -22,6 +22,7 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
   - signed vs unsigned
   - Utilización de la función sizeof
 
+
   - **Clase 03: Operadores**
     - Aritméticos
     - Bit a Bit
