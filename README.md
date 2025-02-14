@@ -27,7 +27,25 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Bit a Bit
     - Utilización de #include <bitset> para visualizar en consola numeros en binario
     - pequeño avance de un condicional if.
- 
+
+ - **Clase 04: Variables y Casting**
+   - Creación de variables.
+   - Inicialización de las mismas.
+   - Casting implícito.
+   - Casting explícito.
+  
+ - **Clase 05: Flujos de entrada, salida y manipuladores**
+    - Cómo usar cin y cout para manejar la entrada y salida de datos.
+    - Diferencias entre std::endl y \n para hacer saltos de línea.
+    - Manipuladores como setw(), setprecision(), fixed y scientific.
+    - Cómo restaurar los manipuladores a sus valores por defecto.
+      
+ - **Clase 06: Control de flujo 1**
+    - Condicionales en C++ (if, else if, else).
+    - Switch-case para manejar múltiples opciones.
+    - Operadores Relacionales y Lógicos.
+    - Ejercicios prácticos para poner en práctica lo aprendido.
+
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Viernes por la tarde, No te la pierdas!!*
 
