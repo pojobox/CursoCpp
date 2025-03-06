@@ -46,6 +46,33 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Operadores Relacionales y Lógicos.
     - Ejercicios prácticos para poner en práctica lo aprendido.
 
+ - **Clase 07: Control de flujo 2**
+    - Bucles:
+    - For
+    - While
+    - Do-while
+    - Break
+    - Continue
+    - Porque no utilizar goto
+    - Ejercicio: Creamos una calculadora básica poniendo en práctica todo lo aprendido en el módulo básico!!.
+    
+- **Quiero felicitarte porque acabas determinar el primer módulo de este curso de c++, seguí practicando y jugando con lo aprendido y yo te veo en el próximo módulo ;-).**
+
+  ### BIENVENIDOS AL MODULO INTERMEDIO!!!
+
+  - **Clase 08: Introducción a funciónes**
+    - Estructura básica de una función en C++.
+    - Cómo declarar y definir funciones.
+    - Llamada a funciones desde main.
+    - Ejercicio: Función para sumar dos números.
+
+  - **Clase 09: Parámetros en funciónes**
+    - Parámetros por valor: Cómo funcionan y cuándo utilizarlos.
+    - Parámetros por referencia: Ventajas y uso en funciones.
+    - Funciones con void: Cuando no necesitamos que devuelvan un valor.
+    - Ejercicio: Función swap para intercambiar valores.
+   
+    
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Viernes por la tarde, No te la pierdas!!*
 
