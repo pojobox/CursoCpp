@@ -80,7 +80,18 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Crear una función calcularArea()  que reciba la base y la altura de un rectangulo, pero si no se proporciona la altura , que utilice el valor por defecto 1
     - Crear una función calcularPropina() que reciba el monto de una cuenta y un porcentaje opcional de propina.
    
-    
+  - **Clase 11: Sobrecarga en funciónes**
+    - ¿Cómo funciona la sobrecarga de funciones en C++?
+    - Ventajas y reglas de la sobrecarga.
+    - Ejemplos prácticos:
+    - Ejemplo 1: Sobrecarga con diferente número de parámetros.
+    - Ejemplo 2: Sobrecarga con diferentes tipos de parámetros.
+    - Ejercicios prácticos:
+    - Ejercicio 1: Crear una función mostrarDatos() sobrecargada para recibir uno o dos números enteros.
+    - Ejercicio 2: Crear una función multiplicar() sobrecargada para multiplicar dos enteros o un entero y un decimal.
+   
+
+  
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Viernes por la tarde, No te la pierdas!!*
 
