@@ -72,6 +72,14 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Funciones con void: Cuando no necesitamos que devuelvan un valor.
     - Ejercicio: Función swap para intercambiar valores.
    
+  - **Clase 10: Parámetros default en funciónes**
+    - Cómo declarar funciones con parámetros por defecto.
+    - Cuándo y por qué usar valores por defecto.
+    - Reglas y restricciones en el uso de parámetros opcionales.
+    - Ejercicios:
+    - Crear una función calcularArea()  que reciba la base y la altura de un rectangulo, pero si no se proporciona la altura , que utilice el valor por defecto 1
+    - Crear una función calcularPropina() que reciba el monto de una cuenta y un porcentaje opcional de propina.
+   
     
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Viernes por la tarde, No te la pierdas!!*
