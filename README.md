@@ -90,7 +90,16 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Ejercicio 1: Crear una función mostrarDatos() sobrecargada para recibir uno o dos números enteros.
     - Ejercicio 2: Crear una función multiplicar() sobrecargada para multiplicar dos enteros o un entero y un decimal.
    
-
+  - **Clase 12: Arrays**
+    - ¿Cómo funcionan los arrays en C++?
+    - Diferencia entre arrays unidimensionales y bidimensionales.
+    - Cómo recorrer y manipular arrays.
+    - Ejemplos en código:
+    - Ejemplo 1: Declaración y recorrido de un array unidimensional.
+    - Ejemplo 2: Creación y visualización de una matriz bidimensional.
+    - Ejercicios prácticos:
+    - Ejercicio 1: Crear un programa que use un array unidimensional para almacenar 5 números y calcular su suma.
+    - Ejercicio 2: Crear un programa que almacene una matriz 3x3 e imprima su transpuesta (intercambiando filas por columnas).
   
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Viernes por la tarde, No te la pierdas!!*
