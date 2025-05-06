@@ -106,7 +106,8 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Cómo ingresar texto por consola usando cin y getline.
     - Diferencias entre char[] y std::string.
     - Métodos útiles como .length(), .substr(), .append(), .find() y comparación con ==.
-    - Ejemplos prácticos desarrollados: 🧪 Leer el nombre y contar la cantidad de letras con char[] y con std::string.
+    - Ejemplos prácticos desarrollados:
+    - Leer el nombre y contar la cantidad de letras con char[] y con std::string.
     - Usar .substr() para extraer parte de una frase.
     - Concatenar frases con .append().
     -  Buscar caracteres en una cadena con .find().
