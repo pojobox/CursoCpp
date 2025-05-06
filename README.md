@@ -100,7 +100,60 @@ El curso está estructurado en clases, cada una diseñada para cubrir conceptos 
     - Ejercicios prácticos:
     - Ejercicio 1: Crear un programa que use un array unidimensional para almacenar 5 números y calcular su suma.
     - Ejercicio 2: Crear un programa que almacene una matriz 3x3 e imprima su transpuesta (intercambiando filas por columnas).
-  
+
+  - **Clase 13: Cadenas de texto**
+    - Qué es una cadena de caracteres y cómo se representa internamente.
+    - Cómo ingresar texto por consola usando cin y getline.
+    - Diferencias entre char[] y std::string.
+    - Métodos útiles como .length(), .substr(), .append(), .find() y comparación con ==.
+    - Ejemplos prácticos desarrollados: 🧪 Leer el nombre y contar la cantidad de letras con char[] y con std::string.
+    - Usar .substr() para extraer parte de una frase.
+    - Concatenar frases con .append().
+    -  Buscar caracteres en una cadena con .find().
+    - Comparar dos cadenas con == (std::string) y strcmp (char[]).
+    - Ejercicios resueltos paso a paso: 
+    - Ejercicio 1: Contar caracteres de una palabra con char[].
+    - Ejercicio 2: Comparar dos palabras con strcmp.
+
+  - **Clase 14: Structs**
+    - Qué es un struct en C++
+    - Cómo declarar y utilizar una estructura
+    - Array de estructuras
+    - Ventajas de usar struct
+    - Ejercicios prácticos:
+    - Crear un registro de estudiantes
+    - Pasar una estructura a una función para mostrar sus datos
+
+  - **Clase 15: Enums**
+    - Qué es una enumeración (enum) en C++
+    - Cómo declarar y utilizar un enum
+    - Cómo usarlo en estructuras de control como switch
+    - Ventajas de utilizar enum en tus programas
+    - Ejercicios prácticos: 
+    - Crear un semáforo con enum y switch
+    - Mostrar permisos según tipo de usuario usando enum y if else
+
+  - **Clase 16: Introduccion a punteros**
+    - Qué es un puntero
+    - Cómo declarar y acceder a punteros
+    - Operadores & y * (dirección y desreferenciación)
+    - Cómo modificar datos usando punteros
+    - Errores comunes al usarlos
+    - Ejercicios prácticos: 
+    - Intercambiar valores con punteros
+    - Sumar dos variables usando punteros
+   
+  - **Clase 17: Uso de new y delete en C++ - Memoria Dinámica** 09/05/25 18:00 pm ARG.
+    - Qué es la memoria dinámica en C++
+    - Cómo usar new para reservar memoria
+    - Cómo usar delete para liberar memoria
+    - Cuándo y por qué usar memoria dinámica
+    - Diferencias entre memoria estática y dinámica
+    - Ejercicios prácticos:
+    - Crear un número dinámico y mostrarlo
+    - Crear un arreglo dinámico y mostrar la suma total
+
+
 *(A medida que avancemos en el curso, se añadirán más clases con ejemplos y ejercicios prácticos.)*
 *Vamos a estar subiendo cada nueva clase los dias Viernes por la tarde, No te la pierdas!!*
 
